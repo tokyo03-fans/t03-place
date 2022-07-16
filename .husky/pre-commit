@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+yarn pretty-quick --pattern "**/*.{astro,ts,tsx,js,jsx,json,yml,md,html}"
