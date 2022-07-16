@@ -1,0 +1,17 @@
+{
+  "name": "t03-place",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "git@github.com:tokyo03-fans/t03-place.git",
+  "author": "lollipop-onl <lollipop@simochee.net>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "astro dev"
+  },
+  "devDependencies": {
+    "astro": "^1.0.0-beta.72",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6"
+  }
+}
