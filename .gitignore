@@ -7,4 +7,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# 環境変数ファイル
+.env.local
+
 .DS_Store
